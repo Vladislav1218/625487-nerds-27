@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Владислав Маслов](https://up.htmlacademy.ru/htmlcss/27/user/625487).
-* Наставник: [Дмитрий Мешагин](https://htmlacademy.ru/profile/id118967).
+* Наставник: [Дмитрий Мишагин](https://htmlacademy.ru/profile/id118967).
 
 ---
 
